@@ -1,0 +1,69 @@
+{
+  "exchanges": [
+    {
+      "code": "US",
+      "country": "United States",
+      "primary_markets": ["NYSE", "NASDAQ", "CBOE"]
+    },
+    {
+      "code": "LN",
+      "country": "United Kingdom",
+      "primary_markets": ["London Stock Exchange (LSE)"]
+    },
+    {
+      "code": "GR",
+      "country": "Germany",
+      "primary_markets": ["Xetra", "Frankfurt Stock Exchange"]
+    },
+    {
+      "code": "FP",
+      "country": "France",
+      "primary_markets": ["Euronext Paris"]
+    },
+    {
+      "code": "NA",
+      "country": "Netherlands",
+      "primary_markets": ["Euronext Amsterdam"]
+    },
+    {
+      "code": "SW",
+      "country": "Switzerland",
+      "primary_markets": ["SIX Swiss Exchange"]
+    },
+    {
+      "code": "IM",
+      "country": "Italy",
+      "primary_markets": ["Borsa Italiana"]
+    },
+    {
+      "code": "SM",
+      "country": "Spain",
+      "primary_markets": ["Bolsa de Madrid (SIBE)"]
+    },
+    {
+      "code": "JP",
+      "country": "Japan",
+      "primary_markets": ["Tokyo Stock Exchange"]
+    },
+    {
+      "code": "HK",
+      "country": "Hong Kong",
+      "primary_markets": ["Hong Kong Stock Exchange"]
+    },
+    {
+      "code": "CH",
+      "country": "China",
+      "primary_markets": ["Shanghai (CG)", "Shenzhen (CS)"]
+    },
+    {
+      "code": "AU",
+      "country": "Australia",
+      "primary_markets": ["Australian Securities Exchange (ASX)"]
+    },
+    {
+      "code": "CN",
+      "country": "Canada",
+      "primary_markets": ["Toronto Stock Exchange (TSX)"]
+    }
+  ]
+}
