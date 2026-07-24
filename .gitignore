@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Python cache files
+.pyc
+
+# Data files
+.csv
+.xlsx
